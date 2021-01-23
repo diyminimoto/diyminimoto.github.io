@@ -1,2 +1,4 @@
-# diyminimoto.github.io
-DIY Mini Moto Projects by Kuvaev Oleg
+### Собери себе минимото :)
+---
+Я тебе тут покажу как я это делаю для себя :)
+---
